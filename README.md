@@ -15,6 +15,12 @@ This is a data analytics project that uses feature selection techniques and unsu
 2. Principal Component Analysis
 3. Information Gain 
 
+#### Distance Metrics -
+1. Gower's Distance
+2. Squared Euclidean Distance
+3. Dissimilarity Measure for Categorical Features 
+
+
 #### Clustering Algorithms -
 1. Partitioning Around Medoids
 2. K-Prototypes
