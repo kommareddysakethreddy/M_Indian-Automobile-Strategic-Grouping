@@ -7,7 +7,7 @@
 
 ### About
 
-This is a data analytics project that uses feature selection techniques and unsupervised learning algorithms to segment the indian automobile brands into different strategic or competitive groups. This project also provides a model level grouping of cars. A car manufacturer can get to know their competitors as well as the competitive car models from other brands for a particular car model of theirs.
+This is a data analytics project that uses feature selection techniques and unsupervised learning algorithms to segment the Indian Automobile Brands into different strategic or competitive groups. This project also provides grouping of cars at the car-model level. A car manufacturer can get to know their competitors as well as the competitive car models from other brands for a particular car model of theirs.
 
 ### Architecture
 #### Feature Selection -
